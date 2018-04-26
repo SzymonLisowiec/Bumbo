@@ -1,11 +1,12 @@
 # Bumbo
 Bumbo is a simple blog engine based on files.
 
-## Getting Started
+## Getting Started on Linux
 ```
 git clone https://github.com/SzymonLisowiec/Bumbo.git
 cd Bumbo
 npm i
+mv .env.example .env
 node index
 ```
 
