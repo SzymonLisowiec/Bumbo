@@ -77,7 +77,10 @@ class Loader {
 				title: post.title,
 				time: post.time.getTime()/1000,
 				tags: post.tags,
-				content: post.content
+				content: post.content,
+				description: post.description,
+				keywords: post.keywords,
+				author: post.author
 			};
 
 		}catch(err){

@@ -18,6 +18,9 @@ class Post {
 	get title () { return this.attributes.title; }
 	get time () { return this.attributes.time; }
 	get tags () { return this.attributes.tags || []; }
+	get description () { return this.attributes.description || false; }
+	get keywords () { return this.attributes.keywords || []; }
+	get author () { return this.attributes.author || false; }
 
 	readFile () {
 
