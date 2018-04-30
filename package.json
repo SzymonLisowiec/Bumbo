@@ -1,6 +1,6 @@
 {
 	"name": "bumbo",
-	"version": "0.8.0",
+	"version": "0.8.5",
 	"description": "Bumbo is a simple blog engine based on files.",
 	"main": "index.js",
 	"author": "Szymon 'Kysune' Lisowiec",

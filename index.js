@@ -21,7 +21,7 @@ class Main {
 		this.server = new Server(this.loader);
 
 	}
-
+	
 }
 
 module.exports = new Main();

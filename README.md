@@ -44,6 +44,10 @@ author:
 ```
 and you can add more nothing significant metadata like `author`.
 
+## TODO
+- [] hiding posts
+- [] planning posts
+
 ## License
 MIT License
 
