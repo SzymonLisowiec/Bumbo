@@ -1,3 +1,5 @@
+# Outdated & Unsupported
+
 # Bumbo
 Bumbo is a simple blog engine based on files.
 
